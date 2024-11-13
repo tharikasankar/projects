@@ -1,4 +1,4 @@
-# project
+# project - Object Detection
 
 ## Aim
 To write a python program using OpenCV to do the following image manipulations.
@@ -55,8 +55,8 @@ Display the result.
 
 ## Program :
 ```
-Developed By: Gopika R
-Reg No: 212222240031
+Developed By: Tharika S
+Reg No: 212222230159
 ```
 ### I) Perform ROI from an image:
 ```
